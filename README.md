@@ -8,3 +8,5 @@ Before using this script, make sure you have the following dependencies installe
 
     Python 3.x
 In the chatgpt.py script you will need to add you api key for chatgpt. If you do not have an API key for chatgpt, you can get one here https://platform.openai.com/account/api-keys
+
+In chatgpt.py # Replace 'YOUR_OPENAI_API_KEY' with your actual API key
