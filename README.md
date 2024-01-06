@@ -7,3 +7,4 @@ Prerequisites
 Before using this script, make sure you have the following dependencies installed:
 
     Python 3.x
+In the chatgpt.py script you will need to add you api key for chatgpt. If you do not have an API key for chatgpt, you can get one here https://platform.openai.com/account/api-keys
